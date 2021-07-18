@@ -1,5 +1,11 @@
 ### Hi Guys 👋 - خوش آمدی بلا میسر خونه خودته برار
 
+
+##  &#x1f4c8; GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realxoman&show_icons=true&theme=tokyonight)
+![](https://activity-graph.herokuapp.com/graph?username=realxoman&theme=react-dark&area=true)
+
+
 <!--
 **realxoman/RealXoMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
