@@ -2,8 +2,14 @@
 I'm Ali.
 
 Aha About Me things..
+
 I'm just a funny programmer.
-You can see my CV On ![Linkedin](https://linkedin.com/in/realxoman/)
+
+You can see my CV On 
+
+![Linkedin](https://linkedin.com/in/realxoman/)
+
+#
 
 سلام من علیم.
 
