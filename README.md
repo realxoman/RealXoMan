@@ -10,6 +10,12 @@ You can see my CV On
 ![Linkedin](https://linkedin.com/in/realxoman/)
 
 
+- 🔭 I’m currently working on ![Rahtools](https://github.com/realxoman/rahtools)
+- 🌱 I’m currently learning ![Nuxt.js](https://github.com/nuxt/nuxt.js)
+- 💬 Ask me about FrontEnd Developing and Wordpress Problems
+- 📫 How to reach me: [hi[at]aliesm[dot]com](mailto:hi@aliesm.com)
+- ⚡ Fun fact: "Abbas Bo Azar" just have one R
+
 
 ## ⛱ Social Networks
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/realxoman)
