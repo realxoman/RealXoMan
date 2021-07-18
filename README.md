@@ -9,7 +9,7 @@ You can see my CV On ![Linkedin](https://linkedin.com/in/realxoman/)
 
 آها باید درمورد خودمم بگم.
 من یک برنامه نویس شاد و باحالم. xD
-میتونی رزومه من رو از اینجا ببینی : ![Linkedin](https://linkedin.com/in/realxoman/) 
+میتونی رزومه من رو از اینجا ببینی : ![لینکدین](https://linkedin.com/in/realxoman/) 
 
 
 ##  &#x1f4c8; GitHub Stats - یه سری آمار از کم کاری ها تو گیت هاب
