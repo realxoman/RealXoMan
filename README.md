@@ -19,7 +19,7 @@ I'm just a funny programmer.
 [![Linkedin](https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/realxoman/)
 [![Youtybe](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](#)
 [![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/realxoman)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Email&logoColor=white)](mailto:hi@aliesm.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hi@aliesm.com)
 
 ## 💻 Technologies & Tools
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -32,6 +32,7 @@ I'm just a funny programmer.
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vuejs](https://img.shields.io/badge/Vue.JS-FCC624?style=for-the-badge&logo=vuedotjs&logoColor=black)
+![nuxtdotjs](https://img.shields.io/badge/nuxt.js-FCC624?style=for-the-badge&logo=nuxtdotjs&logoColor=black)
 
 ##  &#x1f4c8; GitHub Stats
 ![Realxoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=realxoman&show_icons=true&theme=tokyonight)
