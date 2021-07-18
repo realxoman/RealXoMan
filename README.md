@@ -28,11 +28,14 @@ I'm just a funny programmer.
 ![jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![VScode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PHP](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=PHP&logoColor=white)
+![Wordpress](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=Wordpress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Vuejs](https://img.shields.io/badge/Vue.JS-3FB27F?style=for-the-badge&logo=vuedotjs&logoColor=black)
 ![Nuxt.JS](https://img.shields.io/badge/Nuxt.JS-3FB27F?style=for-the-badge&logo=nuxtdotjs&logoColor=black)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ##  &#x1f4c8; GitHub Stats
 ![Realxoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=realxoman&show_icons=true&theme=tokyonight)
