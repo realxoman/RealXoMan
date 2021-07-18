@@ -1,4 +1,4 @@
-# Hi Guys 👋 - خوش آمدی بلا میسر خونه خودته برار
+# Hi Guys 👋
 I'm Ali.
 
 Aha About Me things..
@@ -9,18 +9,7 @@ You can see my CV On
 
 ![Linkedin](https://linkedin.com/in/realxoman/)
 
-#
 
-سلام من علیم.
-
-آها باید درمورد خودمم بگم.
-
-من یک برنامه نویس شاد و باحالم.
-
-xD
-میتونی رزومه من رو از اینجا ببینی :
-
-![لینکدین](https://linkedin.com/in/realxoman/)
 
 ## ⛱ Social Networks
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/realxoman)
@@ -30,7 +19,7 @@ xD
 [![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/realxoman)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Email&logoColor=white)](mailto:hi@aliesm.com)
 
-##  &#x1f4c8; GitHub Stats - یه سری آمار از کم کاری ها تو گیت هاب
+##  &#x1f4c8; GitHub Stats
 ![Realxoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=realxoman&show_icons=true&theme=tokyonight)
 ![](https://github.com/anuraghazra/github-readme-stats)
 
