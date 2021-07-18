@@ -1,5 +1,5 @@
 # Hi Guys 👋
-I'm Ali. ![My Perosnal Website](https://aliesm.com)
+I'm Ali. [My Perosnal Website](https://aliesm.com)
 
 Aha About Me things..
 
@@ -7,11 +7,11 @@ I'm just a funny programmer.
 
 You can see my CV On 
 
-![Linkedin](https://linkedin.com/in/realxoman/)
+[Linkedin](https://linkedin.com/in/realxoman/)
 
 
-- 🔭 I’m currently working on ![Rahtools](https://github.com/realxoman/rahtools)
-- 🌱 I’m currently learning ![Nuxt.js](https://github.com/nuxt/nuxt.js)
+- 🔭 I’m currently working on [Rahtools](https://github.com/realxoman/rahtools)
+- 🌱 I’m currently learning [Nuxt.js](https://github.com/nuxt/nuxt.js)
 - 💬 Ask me about FrontEnd Developing and Wordpress Problems
 - 📫 How to reach me: [hi[at]aliesm[dot]com](mailto:hi@aliesm.com)
 - ⚡ Fun fact: "Abbas Bo Azar" just have one R
