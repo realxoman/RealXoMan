@@ -5,10 +5,6 @@ Aha About Me things..
 
 I'm just a funny programmer.
 
-You can see my CV On 
-
-[Linkedin](https://linkedin.com/in/realxoman/)
-
 
 - 🔭 I’m currently working on [Rahtools](https://github.com/realxoman/rahtools)
 - 🌱 I’m currently learning [Nuxt.js](https://github.com/nuxt/nuxt.js)
