@@ -22,7 +22,7 @@ xD
 [![Linkedin](https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/realxoman/)
 [![Youtybe](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](#)
 [![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/realxoman)
-[![Email](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hi@aliesm.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Email&logoColor=white)](mailto:hi@aliesm.com)
 
 ##  &#x1f4c8; GitHub Stats - یه سری آمار از کم کاری ها تو گیت هاب
 ![Realxoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=realxoman&show_icons=true&theme=tokyonight)
