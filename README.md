@@ -25,7 +25,7 @@ xD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realxoman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![realxoman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=realxoman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![realxoman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=realxoman)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
