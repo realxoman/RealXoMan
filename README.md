@@ -10,7 +10,7 @@ I'm just a funny programmer.
 - 🌱 I’m currently learning [Nuxt.js](https://github.com/nuxt/nuxt.js)
 - 💬 Ask me about FrontEnd Developing and Wordpress Problems
 - 📫 How to reach me: [hi[at]aliesm[dot]com](mailto:hi@aliesm.com)
-- ⚡ Fun fact: "Abbas Bo Azar" just have one R
+- ⚡ Fun fact: "Abbas Bo Azar" just have only one R
 
 
 ## ⛱ Social Networks
@@ -20,6 +20,18 @@ I'm just a funny programmer.
 [![Youtybe](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](#)
 [![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/realxoman)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Email&logoColor=white)](mailto:hi@aliesm.com)
+
+## 💻 Technologies & Tools
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![VScode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vuejs](https://img.shields.io/badge/vuedotjs-FCC624?style=for-the-badge&logo=vuedotjs&logoColor=black)
 
 ##  &#x1f4c8; GitHub Stats
 ![Realxoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=realxoman&show_icons=true&theme=tokyonight)
