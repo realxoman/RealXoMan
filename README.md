@@ -36,8 +36,7 @@ I'm just a funny programmer.
 ![Nuxt.JS](https://img.shields.io/badge/Nuxt.JS-3FB27F?style=for-the-badge&logo=nuxtdotjs&logoColor=black)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=realxoman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=realxoman)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##  &#x1f4c8; GitHub Stats
 ![Realxoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=realxoman&show_icons=true&theme=tokyonight)
