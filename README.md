@@ -6,9 +6,9 @@ Aha About Me things..
 I'm just a funny programmer.
 
 
-- 🔭 I’m currently working on [Rahtools](https://github.com/realxoman/rahtools)
-- 🌱 I’m currently learning [Nuxt.js](https://github.com/nuxt/nuxt.js)
-- 💬 Ask me about FrontEnd Developing and Wordpress Problems
+- 🔭 I’m currently working on [AliESM_Backend](https://github.com/realxoman/Aliesm_Backend)
+- 🌱 I’m currently learning [FastAPI](https://fastapi.tiangolo.com/)
+- 💬 Ask me about Everything about Web Development
 - 📫 How to reach me: [hi[at]aliesm[dot]com](mailto:hi@aliesm.com)
 - ⚡ Fun fact: "Abbas Bo Azar" just have only one R
 
