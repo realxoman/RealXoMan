@@ -22,6 +22,8 @@ I'm just a funny programmer.
 [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hi@aliesm.com)
 
 ## 💻 Technologies & Tools
+![MacOS](https://img.shields.io/badge/MacOS--9cf?style=for-the-badge&logo=Apple&logoColor=black)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -34,7 +36,7 @@ I'm just a funny programmer.
 ![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Vuejs](https://img.shields.io/badge/Vue.JS-3FB27F?style=for-the-badge&logo=vuedotjs&logoColor=black)
 ![Nuxt.JS](https://img.shields.io/badge/Nuxt.JS-3FB27F?style=for-the-badge&logo=nuxtdotjs&logoColor=black)
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=realxoman)](https://github.com/ryo-ma/github-profile-trophy)
 
