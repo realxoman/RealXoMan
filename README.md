@@ -30,7 +30,7 @@ I'm just a funny programmer.
 ![jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![VScode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%2314354C.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/wordpress-%23092E20.svg?style=for-the-badge&logo=Wordpress&logoColor=white)
