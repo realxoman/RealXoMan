@@ -22,7 +22,7 @@ I'm just a funny programmer.
 [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hi@aliesm.com)
 
 ## 💻 Technologies & Tools
-![MacOS](https://img.shields.io/badge/MacOS--9cf?style=for-the-badge&logo=Apple&logoColor=black)
+![MacOS](https://img.shields.io/badge/MacOS--9cf?style=for-the-badge&logo=Apple&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
