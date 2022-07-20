@@ -32,6 +32,7 @@ I'm just a funny programmer.
 ![Python](https://shields.io/badge/Python--9cf?logo=python&style=for-the-badge&logoColor=white)
 ![FastAPI](https://shields.io/badge/FastAPI--9cf?logo=fastapi&style=for-the-badge&logoColor=white)
 ![Django](https://img.shields.io/badge/Django--9cf?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://shields.io/badge/Flask--9cf?logo=flask&style=for-the-badge&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP--9cf?style=for-the-badge&logo=PHP&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress--9cf?style=for-the-badge&logo=Wordpress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript--9cf?style=for-the-badge&logo=javascript&logoColor=white)
