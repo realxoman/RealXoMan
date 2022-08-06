@@ -50,6 +50,8 @@ I'm just a funny programmer.
 
 <!-- [![realxoman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=realxoman)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<img src="https://komarev.com/ghpvc/?username=realxoman&label=Profile%20views&color=0e75b6&style=flat" alt="realxoman" />
+
 
 <!--
 **realxoman/RealXoMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
