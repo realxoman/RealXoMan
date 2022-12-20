@@ -40,10 +40,10 @@ I'm just a funny programmer.
 ![Nuxt.JS](https://img.shields.io/badge/Nuxt.JS--9cf?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=realxoman)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=realxoman&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##  &#x1f4c8; GitHub Stats
-![Realxoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=realxoman&show_icons=true&theme=tokyonight)
+![Realxoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=realxoman&show_icons=true&theme=tokyonight&count_private=true)
 ![](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realxoman&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
