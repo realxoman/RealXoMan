@@ -6,7 +6,7 @@ Aha About Me things..
 I'm just a funny programmer.
 
 
-- 🔭 I’m currently working on [Programming idea tasks](https://github.com/realxoman/Programming-Idea-tasks)
+- 🔭 I’m currently working on [Uptime Monitoring Django]([https://github.com/realxoman/Programming-Idea-tasks](https://github.com/realxoman/Uptime_Monitoring))
 - 🌱 I’m currently learning [FastAPI](https://fastapi.tiangolo.com/)
 - 💬 Ask me Everything about Web Development
 - 📫 How to reach me: [hi[at]aliesm[dot]com](mailto:hi@aliesm.com)
