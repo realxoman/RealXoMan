@@ -46,7 +46,7 @@ I'm just a funny programmer.
 ![Realxoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=realxoman&show_icons=true&theme=tokyonight&count_private=true)
 ![](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realxoman&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=realxoman&&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
 
 <!-- [![realxoman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=realxoman)](https://github.com/anuraghazra/github-readme-stats) -->
 
