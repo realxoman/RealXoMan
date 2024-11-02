@@ -6,8 +6,8 @@ Aha About Me things..
 I'm just a funny programmer.
 
 
-- 🔭 I’m currently working on [Uptime Monitoring Django]([https://github.com/realxoman/Programming-Idea-tasks](https://github.com/realxoman/Uptime_Monitoring))
-- 🌱 I’m currently learning [FastAPI](https://fastapi.tiangolo.com/)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning [PyTorch]([https://fastapi.tiangolo.com/](https://pytorch.org/))
 - 💬 Ask me Everything about Web Development
 - 📫 How to reach me: [hi[at]aliesm[dot]com](mailto:hi@aliesm.com)
 - ⚡ Fun fact: "Abbas Bo Azar" just have only one R
