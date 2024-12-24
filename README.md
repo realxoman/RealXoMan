@@ -6,7 +6,7 @@ Aha About Me things..
 I'm just a funny programmer.
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [Poultry Inspector](https://github.com/realxoman/PoultryInspector)
 - 🌱 I’m currently learning [PyTorch]([https://fastapi.tiangolo.com/](https://pytorch.org/))
 - 💬 Ask me Everything about Web Development
 - 📫 How to reach me: [hi[at]aliesm[dot]com](mailto:hi@aliesm.com)
